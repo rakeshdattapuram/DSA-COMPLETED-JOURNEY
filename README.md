@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
