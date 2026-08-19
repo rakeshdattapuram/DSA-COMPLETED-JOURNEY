@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
