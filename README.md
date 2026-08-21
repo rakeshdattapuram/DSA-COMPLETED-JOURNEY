@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
