@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
