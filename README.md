@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0239-sliding-window-maximum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -137,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
