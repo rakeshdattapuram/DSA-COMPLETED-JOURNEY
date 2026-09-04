@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
