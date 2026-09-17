@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
