@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1314-matrix-block-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
