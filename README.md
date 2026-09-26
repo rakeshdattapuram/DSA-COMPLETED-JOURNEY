@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0523-continuous-subarray-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
