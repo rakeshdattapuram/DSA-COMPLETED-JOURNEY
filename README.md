@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
