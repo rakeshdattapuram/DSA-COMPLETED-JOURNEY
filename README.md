@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0523-continuous-subarray-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
