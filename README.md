@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
