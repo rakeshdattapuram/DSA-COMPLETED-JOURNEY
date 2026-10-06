@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0523-continuous-subarray-sum) |
+| [1688-count-of-matches-in-tournament](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1688-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
