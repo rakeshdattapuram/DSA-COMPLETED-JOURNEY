@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rakeshdattapuram/DSA-COMLETED-JOURNEY/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
